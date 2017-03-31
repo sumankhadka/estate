@@ -1,0 +1,1 @@
+<span><img alt="adsense sidebar" src="<?php echo base_url();?>application/modules/themes/views/default/assets/images/ad2.png" style="width:100%" ></span>

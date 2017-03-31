@@ -1,0 +1,12 @@
+.signup-alert{
+    margin: 2px 0 0 0;
+}
+@media (max-width:400px) {
+	.visit-site{
+		display: none;
+	}
+
+	.language-sel{
+		margin: 10px 10px 0 0 ;
+	}
+}

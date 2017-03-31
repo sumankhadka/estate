@@ -1,0 +1,1 @@
+<span><img alt="adsense" src="<?php echo base_url();?>application/modules/themes/views/default/assets/images/ad1.png" style="width:100%" ></span>
